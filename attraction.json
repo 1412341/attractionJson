@@ -1,0 +1,46 @@
+﻿[	{
+		"title":"Trường tiểu học Âu Cơ",
+		"lat":12.2421312,
+		"lon":109.1865912,
+		"image":"https://www.google.com.vn/url?sa=t&rct=j&q=&esrc=s&source=web&cd=15&cad=rja&uact=8&ved=0ahUKEwiQ-ufj7NzTAhXHpI8KHd6xA68QqB8IjAEwDg&url=https%3A%2F%2Fpicasaweb.google.com%2Flh%2Fsredir%3Funame%3D107972534694988503370%26id%3D6338192992758795938%26target%3DPHOTO&usg=AFQjCNEjolLYQ5pIbeTz62pUrbY_5p29fg&sig2=JCmheJFVZYws3DdeSgiEnQ",
+		"phone": "+84 58 3875 007"
+	},
+	{
+		"name":"Chợ Xóm Mới",
+		"lat":12.2419493,
+		"lon":,109.1866474,
+		"image":"https://lh5.googleusercontent.com/-F0dH5w7JBUY/WF0oA4iu3kI/AAAAAAAACjg/rFCMtGWaMqcT6hBvvDmeDOY-01aRy66QgCLIB/w408-h305-k-no/",
+		"address": "49 Ngô Gia Tự, Phường Tân Lập, TP Nha Trang",
+		"phone": "+84 58 3515 364"
+	},
+	{
+		"name":"Nhà thờ Kitô Vua",
+		"lat":12.2445939,
+		"lon":109.1866474,
+		"image": "https://lh6.googleusercontent.com/proxy/YrqgmZ9WuZMxYxIl9gvRiRLhz4-WyibrgF6I1nHSSGiMzFnypr4kSMBgQaOxwvtNhrpgff8j3nL7aRApTQnHEp2ksdxo1g=w408-h272-k-no",
+		"address": "31 Thái Nguyên, Phường Phước Tân, TP Nha Trang",
+		"phone": "+84 58 3823335"
+	},
+	{
+		"name":"Nhà hàng Nha Trang Seafood",
+		"lat":12.2406421,
+		"lon":109.1896061,
+		"image":"https://lh5.googleusercontent.com/-g_5Ch-deY_c/WGi31GOwUYI/AAAAAAAAYyI/nmut7X5obTQMhKga2_Vhpv8mOJQ2kuc1gCLIB/w408-h306-k-no/",
+		"address": "46 Nguyễn Thị Minh Khai, Phường Lộc Thọ, TP Nha Trang",
+		"phone": "+84 58 3522664"
+	},
+	{
+		"name":"Trường THPT chuyên Lê Qúy Đôn",
+		"lat":12.2484403,
+		"lon":,109.1896061
+		"image":"https://lh5.googleusercontent.com/-TDmsfvGJVQE/Uc1ia_in7GI/AAAAAAAA2dg/2W2KzGYckdcZQ9dHEeGXHPenMYQxVZEQgCLIB/w408-h306-k-no/",
+		"phone": "+84 58 3819 374"
+	},
+	{
+		"name":"Chùa Long Sơn",
+		"lat":12.2469571,
+		"lon":109.1900937,
+		"image":"https://lh5.googleusercontent.com/-qhNnQxOduro/Vz_hXV84KWI/AAAAAAAAGkE/YSBEWFml310euKlswQf8QR6_eTEQPrOqQCJkC/w408-h270-k-no/",
+		"phone": "+84 58 3827 239"
+	}
+]
